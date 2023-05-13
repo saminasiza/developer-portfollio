@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.red-color {
+    color: rgb(155, 7, 7);
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: left 5%;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: blanchedalmond;
+    padding: 10px 40px;
+    font-weight: 700;
+    border: radius 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
